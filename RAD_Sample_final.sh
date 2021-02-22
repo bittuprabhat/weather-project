@@ -1,5 +1,5 @@
 #!bin/bash
-
+###module loaded
 ########################################
 module load gnu/pythonpackages/2.7.9 gnu/packagesuite/1
 
